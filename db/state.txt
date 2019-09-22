@@ -1,4 +1,5 @@
-/home/toddg/proj/energy-dashboard/data/data-oasis-prc-mpm-ref-dam/sql/20190917_20190918_PRC_MPM_REF_BUS_DAM_20190922_11_06_58_v1.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-prc-mpm-ref-dam/sql/20190918_20190919_PRC_MPM_REF_BUS_DAM_20190922_11_07_04_v1.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-prc-mpm-ref-dam/sql/20190919_20190920_PRC_MPM_REF_BUS_DAM_20190922_11_07_09_v1.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-prc-mpm-ref-dam/sql/20190920_20190921_PRC_MPM_REF_BUS_DAM_20190922_11_07_14_v1.sql
+20190917_20190918_PRC_MPM_REF_BUS_DAM_20190922_11_06_58_v1.sql
+20190918_20190919_PRC_MPM_REF_BUS_DAM_20190922_11_07_04_v1.sql
+20190919_20190920_PRC_MPM_REF_BUS_DAM_20190922_11_07_09_v1.sql
+20190920_20190921_PRC_MPM_REF_BUS_DAM_20190922_11_07_14_v1.sql
+20190916_20190917_PRC_MPM_REF_BUS_DAM_20190922_14_13_14_v1.sql
